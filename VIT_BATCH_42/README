@@ -1,0 +1,9 @@
+Water Level monitor
+Aims:
+1 To design and develop a prototype to monitor water level in a dam and alert authorities if
+  the water is above certain threshold locally by sounding an alarm and displaying warning in bold font on a screen
+  and remotely with the aid of an IoT data analytics platform
+Result:
+1 The created prototype monitors water level and displays it on an oled screen as well as sends the readings to an IoT data
+  analytics platorm ThingSpeak in realtime. If the water is above a certain threshold, the system sounds a buzzer, displays
+  a warning on the oled display in bold letters and the IoT dashboard also warns the user. Thus, the project achieves its goals.
